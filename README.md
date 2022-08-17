@@ -2,6 +2,15 @@
 
 六步创建vitest模板，普通项目
 
+## 包含
+
+- [x] ts
+- [x] JavaScript
+- [x] vitest
+- [x] Vite
+- [x] vue
+- [x] vue-tsx
+
 Get started
 
 ## 1. 创建文件夹
