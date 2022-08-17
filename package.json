@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"test": "vitest"
+	},
+	"devDependencies": {
+		"vitest": "^0.22.0"
+	},
+	"dependencies": {
+		"vite": "^3.0.8"
+	}
+}
