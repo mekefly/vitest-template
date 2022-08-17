@@ -2,7 +2,17 @@
 
 六步创建vitest模板，普通项目
 
-Get started
+## 包含
+
+- [x] JavaScript
+- [x] TypeScript
+- [x] vitest
+
+## 更多
+
+- [vitest-vue-template](https://github.com/mekefly/vitest-template/tree/vitest-vue-template)这个分支包含更多测试，如vite, vue, vue-jsx, vue-tsx 的支持
+
+## Get started
 
 ## 1. 创建文件夹
 
